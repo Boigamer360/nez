@@ -157,5 +157,6 @@ down and dirty with things like SRAM. Eventually you'll be able to define your o
 opcode, if you so desire. (Be careful; this can definitely break things if you're not
 careful.
 
+.
 The methods are defined in [./api.js](./api.js) for now. Better documentation may come
 later, but hopefully they are self-explanatory enough to get started.
